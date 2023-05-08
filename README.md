@@ -5,6 +5,4 @@
 
 ### Social Media
 
-![](https://api.iconify.design/icon-park/instagram.svg?color=%23149eca&width=32&height=32) ![](https://api.iconify.design/icon-park/twitter.svg?color=%23149eca&width=32&height=32)
-
 [![](https://api.iconify.design/skill-icons/instagram.svg?width=32&height=32)](https://www.instagram.com/eray.jsx/) [![](https://api.iconify.design/skill-icons/twitter.svg?width=32&height=32)](https://twitter.com/erayjs)
