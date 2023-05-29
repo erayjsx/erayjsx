@@ -4,5 +4,5 @@
 
 ------------
 
-![](https://api.iconify.design/logos/mysql.svg?width=32&height=32)  ![](https://api.iconify.design/logos/postgresql.svg?width=30&height=30) ![](https://api.iconify.design/devicon-plain/microsoftsqlserver-wordmark.svg?width=32&height=32)
+![](https://api.iconify.design/logos/mysql.svg?width=32&height=32)  ![](https://api.iconify.design/logos/postgresql.svg?width=30&height=30) ![](https://api.iconify.design/devicon-plain/microsoftsqlserver-wordmark.svg?color=%23888&width=32&height=32)
 
