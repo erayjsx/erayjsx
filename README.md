@@ -6,3 +6,4 @@ Hi! I'm Eray, I've been in the software development world for 3-4 years and duri
 
 ![](https://api.iconify.design/vscode-icons/file-type-sqlite.svg?width=32&height=32) ![](https://api.iconify.design/logos/mysql.svg?width=32&height=32)  ![](https://api.iconify.design/logos/postgresql.svg?width=30&height=30) ![](https://api.iconify.design/devicon-plain/microsoftsqlserver-wordmark.svg?color=%23888&width=32&height=32)
 
+
