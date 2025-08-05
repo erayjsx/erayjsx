@@ -5,5 +5,6 @@
 
 ![](https://api.iconify.design/vscode-icons/file-type-sqlite.svg?width=32&height=32) ![](https://api.iconify.design/logos/mysql.svg?width=32&height=32)  ![](https://api.iconify.design/logos/postgresql.svg?width=30&height=30) ![](https://api.iconify.design/devicon-plain/microsoftsqlserver-wordmark.svg?color=%23888&width=32&height=32)
 
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs)](https://skillicons.dev)
 
 
