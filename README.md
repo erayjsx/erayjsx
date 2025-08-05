@@ -5,4 +5,6 @@
 
 ![](https://api.iconify.design/vscode-icons/file-type-sqlite.svg?width=32&height=32) ![](https://api.iconify.design/logos/mysql.svg?width=32&height=32)  ![](https://api.iconify.design/logos/postgresql.svg?width=30&height=30) ![](https://api.iconify.design/devicon-plain/microsoftsqlserver-wordmark.svg?color=%23888&width=32&height=32)
 
+![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=erayjs&show_icons=true&theme=radical)
+
 
