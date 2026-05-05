@@ -1,5 +1,20 @@
-# erayjs 👋
+# Hi 👋
+I'm eray
 
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,ts,nodejs,bun,elysia,vite,react,nextjs,svelte,astro,flutter,firebase,supabase,postgresql,redis,docker,cloudflare,vercel)](https://skillicons.dev)
+#### Mobile
+[![Mobile Skills](https://go-skill-icons.vercel.app/api/icons?i=expo,flutter,swift,jetpackcompose)](https://erayjs.com)
+#### Web
+[![Web Skills](https://go-skill-icons.vercel.app/api/icons?i=bun,hono,elysia,react,nextjs,svelte,astro)](https://erayjs.com)
+#### DB
+[![DB Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,pocketbase,strapi,postgresql,redis)](https://erayjs.com)
+#### Server
+[![Server Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,cloudflare,workers,vercel)](https://erayjs.com)
 
-[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+
+### Stuff I made
+- [stdyo](https://apps.apple.com/us/app/stdyo-ai-photo-video/id6756251796): AI Photo & Video Generate App
+- [PoBase](https://apps.apple.com/us/app/stdyo-ai-photo-video/id6756251796): Mobile PocketBase Manager App
+- [Minara](https://apps.apple.com/us/app/minara-quran-audio-prayer/id6758213445): Quran & Prayer App
+
+
+<p>Check my Apps on <a href="https://apps.apple.com/us/developer/eray-can-topcu/id1859535581">App Store</a> </p>
