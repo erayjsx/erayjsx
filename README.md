@@ -1,5 +1,5 @@
 # Hi 👋
-I'm eray Mobile & Frontend Developer focused on React ecosystem and AI-powered applications.
+I'm eray Mobile & Frontend Developer focused on React ecosystem and Flutter applications.
 Built and published multiple production-ready apps on App Store.
 Interested in scalable products and developer tools.
 
