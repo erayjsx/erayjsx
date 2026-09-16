@@ -15,7 +15,7 @@ Interested in scalable products and developer tools.
 
 ### Stuff I made
 - [stdyo](https://apps.apple.com/us/app/stdyo-ai-photo-video/id6756251796): AI Photo & Video Generate App
-- [PoBase](https://apps.apple.com/us/app/stdyo-ai-photo-video/id6756251796): Mobile PocketBase Manager App
+- [PoBase](https://apps.apple.com/tr/app/pobase-pocketbase-manager/id6759821977): Mobile PocketBase Manager App
 - [Minara](https://apps.apple.com/us/app/minara-quran-audio-prayer/id6758213445): Quran & Prayer App
 
 
