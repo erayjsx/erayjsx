@@ -7,13 +7,13 @@ Mobile & frontend developer building with React Native and Flutter. I've shipped
 ### Stack
 
 #### Mobile
-[![Mobile Skills](https://go-skill-icons.vercel.app/api/icons?i=expo,flutter,swift,jetpackcompose)](https://erayjs.com)
+[![Mobile Skills](https://skills.syvixor.com/api/icons?i=expo,flutter,swift,jetpackcompose)](https://erayjs.com)
 #### Web
-[![Web Skills](https://go-skill-icons.vercel.app/api/icons?i=bun,hono,elysia,react,nextjs,svelte,astro)](https://erayjs.com)
+[![Web Skills](https://skills.syvixor.com/api/icons?i=bun,hono,elysiajs,reactjs,nextjs,svelte,astro)](https://erayjs.com)
 #### DB
-[![DB Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,pocketbase,strapi,postgresql,redis)](https://erayjs.com)
+[![DB Skills](https://skills.syvixor.com/api/icons?i=firebase,pocketbase,strapi,postgresql,redis)](https://erayjs.com)
 #### Server
-[![Server Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,cloudflare,workers,vercel)](https://erayjs.com)
+[![Server Skills](https://skills.syvixor.com/api/icons?i=docker,cloudflare,cloudflareworkers,vercel)](https://erayjs.com)
 
 ### Apps
 
