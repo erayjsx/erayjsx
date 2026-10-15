@@ -7,7 +7,7 @@ Mobile & frontend developer building with React Native and Flutter. I've shipped
 ### Stack
 
 #### Mobile
-[![Mobile Skills](https://skills.syvixor.com/api/icons?i=expo,flutter,swift,kotlinmultiplatform)](https://erayjs.com)
+[![Mobile Skills](https://skills.syvixor.com/api/icons?i=expo,onejs,flutter,swift,kotlinmultiplatform)](https://erayjs.com)
 #### Web
 [![Web Skills](https://skills.syvixor.com/api/icons?i=bun,hono,elysiajs,reactjs,nextjs,tanstack,svelte,astro)](https://erayjs.com)
 #### DB
